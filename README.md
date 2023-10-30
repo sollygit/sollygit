@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sollygit, A full-stack developer, a problem solver and a thinker :-)
+- 👋 Hi, I'm @SollyGit, a full-stack .NET developer, a problem solver and a code innovetor 😊
 - 👀 I’m interested in graceful braids.
 - 🌱 I’m currently learning all about Asynchronous Programming.
 - 💞️ I’m looking to collaborate on anything innovative.
