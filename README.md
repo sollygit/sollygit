@@ -1,4 +1,4 @@
-- 😊 Hi, I'm @SollyGit, a full-stack .NET developer, a problem solver and a code innovetor.
+- 😊 Hi, I'm Solly, a senior full-stack .NET developer.
 - 👀 I always try to make my code as good, clean, readable and maintainable as I can.
 - 🌱 I’m currently learning all about Asynchronous Programming.
 - 💞️ I’m looking to collaborate on anything innovative.
