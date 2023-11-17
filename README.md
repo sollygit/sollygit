@@ -9,3 +9,5 @@
 - 📫 https://www.linkedin.com/in/sollys.
 
 ![Solly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sollygit&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollygit&layout=compact)
