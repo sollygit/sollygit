@@ -8,4 +8,4 @@
 - 👨‍💻 Software Consultancy: If you need guidance or expert advice on software-related matters, I am here to provide reliable and valuable consultancy services.
 - 📫 https://www.linkedin.com/in/sollys.
 
-![Solly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sollygit&show_icons=true)
+![Solly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sollygit&show_icons=true&theme=transparent)
