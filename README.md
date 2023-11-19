@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Solly Fathi
+## 👋 Hi, I'm Solly
 
 - 😊 I'm a senior full-stack .NET developer.
 - 👀 I’m looking to collaborate on anything innovative.  
