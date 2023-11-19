@@ -2,9 +2,10 @@
 
 - 😊 I'm a senior full-stack .NET developer.
 - 👀 I’m looking to collaborate on anything innovative.  
-- 🚀 Back-end Development: I am proficient in ASP.NET Core and RestFull-API. Building robust APIs, handling server-side logic, and integrating with database.
-- 🚀 Front-end Development: I excel in Angular and HTML/CSS development. I create interactive and responsive user interfaces that provide an exceptional user experience.
-- 🚀 DB Management: I have a strong command of SQL and extensive experience working with SQL Server and CosmosDB. Design efficient DB structures and write optimized queries.
+- 🚀 Back-end Development: Proficiency in building RESTfull API's in .NET and handling server-side logic in C# with database integration.
+- 🚀 Front-end Development: Using Angular and TypeScript framework to create SPA applications for seamless user experience.
+- 🚀 With strong command of SQL Server and Entity Framework.
+- 🚀 Working with Azure Cosmos DB database technologies.
 - 📫 https://www.linkedin.com/in/sollys
 
 ![Solly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sollygit&show_icons=true&theme=transparent)
