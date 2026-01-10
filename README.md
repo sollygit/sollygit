@@ -7,7 +7,3 @@
 - 🚀 Microservices & Serverless Architectures: Designing and deploying Azure Functions, integrating with event hubs, queues, and microservices for efficient, decoupled systems.
 - 🚀 Data & Storage: Proficient in working with SQL Server, Entity Framework, Cosmos DB, and Azure Blob Storage - supporting both local development and cloud-based data solutions.
 - 📫 https://www.linkedin.com/in/sollys.
-
-![Solly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sollygit&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollygit&layout=compact)
