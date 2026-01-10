@@ -6,4 +6,4 @@
 - 🚀 Cloud & DevOps: Proven experience with Azure DevOps, CI/CD pipelines, and deploying scalable cloud services on Microsoft Azure.
 - 🚀 Microservices & Serverless Architectures: Designing and deploying Azure Functions, integrating with event hubs, queues, and microservices for efficient, decoupled systems.
 - 🚀 Data & Storage: Proficient in working with SQL Server, Entity Framework, Cosmos DB, and Azure Blob Storage - supporting both local development and cloud-based data solutions.
-- 📫 https://www.linkedin.com/in/sollys.
+- 📫 <a href="https://www.linkedin.com/in/sollys" target="_blank">Linkedin</a>
